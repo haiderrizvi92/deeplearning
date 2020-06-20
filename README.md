@@ -1,21 +1,25 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<p align="center"><img src="https://www.iwextech.com/wp-content/uploads/elementor/thumbs/logo-opoihsv8rted7y8urcq736haofkpw1qfe1ios2iezs.png"></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
 
-## Laravel wrapper of BigBlueButton Conference application
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+## Introduction to deep learning
 
-## Big Blue Button 
+In the past few years, artificial intelligence (AI) has been a subject of intense media
+hype. Machine learning, deep learning, and AI come up in countless articles, often
+outside of technology-minded publications. We’re promised a future of intelligent
+chatbots, self-driving cars, and virtual assistants—a future sometimes painted in a
+grim light and other times as utopian, where human jobs will be scarce and most
+economic activity will be handled by robots or AI agents. For a future or current
+practitioner of machine learning, it’s important to be able to recognize the signal
+in the noise so that you can tell world-changing developments from overhyped
+press releases.
 
-BigBlueButton is an open-source web conferencing system. It is based on GNU/Linux operating system and runs on Ubuntu 16.04. In addition to various web conferencing services, it has integrations for many of the major learning and content management systems.
+## what you will learn in deep learning
+You’ll learn from more than 30 code examples that include detailed commentary,
+practical recommendations, and simple high-level explanations of everything you
+need to know to start using deep learning to solve concrete problems
 
-## This is the Wrapper of Laravel + BigBlueButton 
+## numpy, pandas,  
 
 I have designed this wrapper for the ease of use to create online conferencing application in laravel, currently I am using laravel 5.3 for this application but in future I will update the laravel version. 
 
