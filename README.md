@@ -46,5 +46,5 @@ Meeting::all(); //get a list of all meetings
 
 ## Contact Developer
 
-```Aliraza170@gmail.com```
+```hanirizvi572@gmail.com```
 
